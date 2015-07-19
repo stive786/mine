@@ -5,7 +5,7 @@ window.onload = function () {
 	if (e == null) {
 		window.location.href = "http://http://www.gadgetsloop.in"
 	}
-	e.setAttribute("href", "http://ahttp://www.gadgetsloop.in/");
+	e.setAttribute("href", "http://www.gadgetsloop.in/");
 	e.setAttribute("rel", "nofollow");
 	e.innerHTML = "Gadgetsloop Design"
 }
